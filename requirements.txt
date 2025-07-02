@@ -1,4 +1,6 @@
 transformers
 gradio
-google-generativeai
 networkx
+sympy
+python-dotenv
+google-generativeai
