@@ -64,7 +64,13 @@ https://drive.google.com/uc?export=download&id=1gCza0lEBlK9Ox88qLi4V1Yt1jIdnEp3Y
 
 ---
 
-## ⚙️ How to Run
+## 🚀 Live Demo
+👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/devansh152/network_analyzer)  
+*(No login required)*
+
+---
+
+## ⚙️ How to Run on your device
 
 1. Clone the repo (or copy to Google Colab).
 2. Set your Hugging Face API token via:
