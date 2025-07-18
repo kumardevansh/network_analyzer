@@ -1,4 +1,4 @@
-# 🔬 Biological Network Analyzer (LLM + Vision + Symbolic Reasoning)
+# 🔬 Biological Network Analyzer
 
 A multimodal tool to **analyze biological reaction networks** from either structured text or **public image URLs**. Combines **vision-language models** with symbolic computation to answer user queries like:
 
