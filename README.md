@@ -61,6 +61,8 @@ Is it cyclic?
 ```
 https://drive.google.com/uc?export=download&id=1gCza0lEBlK9Ox88qLi4V1Yt1jIdnEp3Y
 ```
+## Sample Output
+![Screenshot](./screenshot.png)
 
 ---
 
